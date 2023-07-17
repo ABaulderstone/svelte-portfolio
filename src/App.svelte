@@ -4,7 +4,7 @@
 
 <main>
   <h1>Alex Baulderstone</h1>
-  <h2>Coming soon</h2>
+  <p>Website coming soon</p>
 </main>
 
 <style>
